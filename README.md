@@ -62,7 +62,6 @@ python predict.py \
   --save-prob \
   --save-overlay
 ```
-temporary staged line
 
 Run inference on a folder of images:
 
