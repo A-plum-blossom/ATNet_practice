@@ -1,3 +1,5 @@
+Now This repository is my personal first practice.
+
 # ApexTransNet
 
 ApexTransNet is an anatomy-aware deep learning framework for apical periodontitis (AP) analysis on panoramic dental radiographs. The model performs pixel-level AP lesion segmentation and case-level AP prediction using a shared encoder-decoder backbone with a Transformer bottleneck, ASPP context aggregation, attention-gated decoding, and auxiliary localization, boundary, and classification heads.
